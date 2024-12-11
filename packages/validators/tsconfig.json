@@ -1,0 +1,5 @@
+{
+  "extends": "@t3-turbo-sandbox/tsconfig/internal-package.json",
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,5 @@
+{
+  "extends": "@t3-turbo-sandbox/tsconfig/base.json",
+  "include": ["src", "*.ts"],
+  "exclude": ["node_modules"]
+}

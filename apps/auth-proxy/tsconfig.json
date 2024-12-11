@@ -1,0 +1,4 @@
+{
+  "extends": "@t3-turbo-sandbox/tsconfig/base.json",
+  "include": ["routes"]
+}
